@@ -1,4 +1,4 @@
-setwd("~/Dropbox/Education/edX/The Analytics Edge/Unit 1")
+setwd("~/Dropbox/Education/edX/AnalyticsEdge/Unit 1")
 
 ##### AN ANALYTICAL DETECTIVE #####
 ### Problem 1 - Loading the Data ###

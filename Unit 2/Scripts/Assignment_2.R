@@ -1,4 +1,4 @@
-setwd("~/Dropbox/Education/edX/The Analytics Edge/Unit 2")
+setwd("~/Dropbox/Education/edX/AnalyticsEdge/Unit 2")
 
 ##### CLIMATE CHANGE #####
 ### Problem 1 - Creating Our First Model ###
